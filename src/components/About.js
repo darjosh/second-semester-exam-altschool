@@ -8,7 +8,7 @@ function About() {
         <title>My Exam Page</title>
         <meta
           name='description'
-          content='My Altschool second semester exam About page'
+          content='My second semester exam About page'
         />
         <link rel='canonical' href='/About' />
       </Helmet>
