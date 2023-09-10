@@ -20,10 +20,12 @@ const Footer = () => {
         <a href="https://twitter.com/owotogbesegun"><IoLogoTwitter /></a>
         <a href="www.linkedin.com/in/owotogbesegun "><AiFillLinkedin /></a>
         <a href="https://github.com/darjosh"><AiFillGithub /></a>
+        <a href="https://github.com/darjosh"><AiFillGithub /></a>
       </div>
 
       <div className="footer__copyright">
         <small>&copy; Mr Joshua segun Owotogbe. All rights reserved</small>
+        
       </div>
     </footer>
   )
